@@ -48,3 +48,7 @@ namespace custom {
 
 
 ```
+
+## Step 2
+
+Customize your new blocks!
